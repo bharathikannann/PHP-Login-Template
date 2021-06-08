@@ -25,6 +25,7 @@
 - Create users table in phpMyAdmin.
 - Change the dbusername and password in dbh.inc.php file.
 - Create four columns idUsers, uidUsers, emailUsers, pwdUsers in the users table.
+- Or import the [loginsystem.sql](loginsystem.sql) file in the phpMyAdmin.
 - Save the files, upload them to your webserver and give it a try.
 
 # Features
